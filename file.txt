@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-Test
-Added new line
-Third line
-Adding four line
-=======
 1 Test
 2 Added new line
 3 Third line
->>>>>>> 041eae2b606707c9e6e7ed9570fdb4d6dce89c01
+4 Adding four line
